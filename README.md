@@ -12,5 +12,3 @@ This is a booking management system, created with React for the frontend and Nod
 ## Start the environment with Docker:
 **docker-compose up --build**
 
-
-file:///C:/Users/Albio/Downloads/home1.jpeg
