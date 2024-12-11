@@ -10,9 +10,10 @@
 **docker-compose up --build**
 
 
-![Home Page 1](https://github.com/user-attachments/assets/91248e28-8d06-4f28-9610-3f5694b79da3)
-![Home Page 2](https://github.com/user-attachments/assets/511c4cce-a234-44f4-9e30-2dea1a0788d9)
-![Home Page 3](https://github.com/user-attachments/assets/bc64970b-2746-4740-97df-b2b55b069f4a)
-![CRUD Backend](https://github.com/user-attachments/assets/34fcfb96-47ba-4f56-abe1-386d8e1e8315)
 
 
+
+![home1](https://github.com/user-attachments/assets/34e1e3d7-a81a-4c38-8462-28355694362a)
+![home2](https://github.com/user-attachments/assets/f34571b6-e9bb-45ff-95f2-b3d37d8d1189)
+![home3](https://github.com/user-attachments/assets/ad2c5743-bb01-4619-85fe-f81fae838e2e)
+![crudatneback](https://github.com/user-attachments/assets/454d6e55-017f-4f4c-94c3-a15ee894f3c0)
